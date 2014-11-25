@@ -1,0 +1,83 @@
+/* ==========================================================================
+	BASE STYLES: OPINIONATED DEFAULTS.
+   ========================================================================== */
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection declarations have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+::selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+	resize: vertical;
+}
+
+/* ==========================================================================
+	BROWSE HAPPY PROMPT.
+   ========================================================================== */
+
+.browsehappy{
+	margin: 0;
+	padding: 1em 0;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border: 3px solid #F00;
+}
+
+.browsehappy a{
+	color: #F00;
+	text-decoration: underline !important;
+}
+
+/* ==========================================================================
+	AUTHOR'S CUSTOM STYLES.
+   ========================================================================== */
+
+/*
+ * Author's custom styles goes here.
+ */
+
+
+
+/* ==========================================================================
+	HELPER CLASSES.
+   ========================================================================== */
+
+
+
+/* ==========================================================================
+	MEDIA QUERIES FOR RESPONSIVE DESIGN.
+   ========================================================================== */
+
+/*
+ * Author's custom media queries goes here.
+ */
+
+
+
+/* ==========================================================================
+	PRINT STYLES.
+   ========================================================================== */
+
+/*
+ * Author's custom print styles goes here.
+ */
+
+
