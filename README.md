@@ -1,3 +1,5 @@
+<h2>Student Management System</h2>
+
 This project is based on development of student management system for DS Senanayake college colombo 7 , Sri Lanka.
 
 This is the developing version of DSSMS ,Our main objective is to convert existing system to a .
