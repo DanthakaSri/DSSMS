@@ -16,7 +16,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
-	<link rel="icon" type="image/png" href="<?php echo $zone_url;?>favicon.png">
+	<link rel="icon" type="image/png" href="<?php echo $zone_url;?>faviconds.png">
 	<link rel="apple-touch-icon-precomposed" href="<?php echo $zone_url;?>apple-touch-icon-precomposed.png">
 	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo $zone_url;?>favicon-57.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="<?php echo $zone_url;?>favicon-72.png">
@@ -27,6 +27,7 @@
 	
 	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>css/bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>css/main.css">
+	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>fonts/font-awesome/css/font-awesome.css">
 	
 	<script src="<?php echo $zone_url;?>js/vendor/modernizr.min.js"></script>
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -76,16 +77,16 @@
 					<ul class="nav navbar-nav">
 						<li <?php echo $tab == '' ? 'class="active"' : '';?>><a href="<?php echo $base_url;?>">Home</a></li>
 						<li <?php echo $tab == 'test-page' ? 'class="active"' : '';?>><a href="<?php echo $base_url;?>test-page">Link</a></li>
-						<li><a href="http://w3capsule.org" target="_blank">Official Website</a></li>
+						<li><a href="#" target="">Official Website</a></li>
 					</ul>
 
 					<ul class="nav navbar-nav navbar-right">
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">w3Capsule <b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="https://github.com/Olionsoft/w3capsule" target="_blank">w3C Pure</a></li>
-								<li><a href="https://github.com/Olionsoft/w3capsule-laravel" target="_blank">w3C for Laravel</a></li>
-								<li><a href="https://github.com/Olionsoft/w3capsule-codeigniter" target="_blank">w3C for CodeIgniter</a></li>
+								<li><a href="#" target="">w3C Pure</a></li>
+								<li><a href="#" target="">w3C for Laravel</a></li>
+								<li><a href="#" target="">w3C for CodeIgniter</a></li>
 							</ul>
 						</li>
 					</ul>
