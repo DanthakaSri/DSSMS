@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="no-js" lang="">
 
 <?php
 	$base_url = base_url();
@@ -25,7 +25,7 @@
 	<link rel="apple-touch-icon" sizes="144x144" href="<?php echo $zone_url;?>favicon-144.png">
 	<link rel="apple-touch-icon" sizes="152x152" href="<?php echo $zone_url;?>favicon-152.png">
 	
-	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>css/bootstrap.css">
+	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>css/bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" media="screen" href="<?php echo $zone_url;?>css/main.css">
 	
 	<script src="<?php echo $zone_url;?>js/vendor/modernizr.min.js"></script>

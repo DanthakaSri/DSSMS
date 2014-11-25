@@ -11,7 +11,7 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="<?php echo $zone_url;?>js/vendor/jquery.min.js"><\/script>')</script>
-	<script src="<?php echo $zone_url;?>js/vendor/bootstrap.min.js"></script>
+	<script src="<?php echo $zone_url;?>js/vendor/bootstrap/bootstrap.min.js"></script>
 	<script src="<?php echo $zone_url;?>js/vendor/parsley.min.js"></script>
 	<script src="<?php echo $zone_url;?>js/plugins.js"></script>
 	<script src="<?php echo $zone_url;?>js/main.js"></script>
